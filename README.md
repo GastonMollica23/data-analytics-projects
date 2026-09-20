@@ -79,3 +79,4 @@ Column G has text, which needs to replaced with numbers to make the data easier 
 
 Highlight the row, then use a find a replace function. Find = value already entered, replace will be the number
 
+123
