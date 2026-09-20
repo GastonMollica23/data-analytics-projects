@@ -56,3 +56,26 @@ Use this split funtion to create 2 new columns. Once this is done, replace the o
 4. Adding a negative value to the longitude column values
 
 Paste =G2*-1 in an empty column then paste the new values where they need to go
+
+Student Performance data
+
+1. Sort the data by school and age. The data will need to be sorted using multiple columns. 
+
+Highlight the entire data set> Dat> Sort Range> Advanced Settigns
+Select the columns that will need to be sorted by
+
+This will now sort the data from schools first (A-Z) then the ages of the students
+
+2. Some rows need to be deleted as the data is ineligable. Students over the age of 20 need to be removed from the data set as they're not actually high school students, creating incorrect data. 
+
+Filer by student age, remove all rows that contain the age 20, 21 and 22. 
+
+3. Fill in the missing data. One some data sets, there is mossing informaiton. We'll need to fill this column out with information so the column is not left blank. 
+
+Filter the column so all rows with a blank value in reason given appear, then fill those rows with none_given
+
+4. Converting data. 
+Column G has text, which needs to replaced with numbers to make the data easier to read. 
+
+Highlight the row, then use a find a replace function. Find = value already entered, replace will be the number
+
